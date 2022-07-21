@@ -11,7 +11,7 @@
   border: 0; /* Zeramos o border */
 } /* Com isto acima, ressetamos estas propriedades */
 body {
-  background: #282a36; /* Cor de fundo */
+  background: #e48fe4; /* Cor de fundo */
   font-family: 'Source Sans Pro', sans-serif; /* Definimos o tipo de fonte */
   color: white;
 }
