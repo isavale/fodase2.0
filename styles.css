@@ -34,7 +34,7 @@ header {
                      /* atribuída ao tamanho da fonte.*/
   margin: 0 16px;    /* Margem 0 na parte superior e inferior, e 16 nas */ 
                      /* laterais */ 
-  text-decoration: none; /* Eliminamos o sublinhado da tag a (link) */
+  text-decoration: purple; /* Eliminamos o sublinhado da tag a (link) */
 }
 .links a:hover {
   color: var(--color-green); /* Definimos uma cor verde para o menu quando movemos 
